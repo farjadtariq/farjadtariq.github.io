@@ -20,7 +20,7 @@ If you don't have a resume at all however.. then I suggest you make one right aw
 # Instructions
 Now, for the fun part.
 
-#### What does Etter say about Technical Writing?
+### What does Etter say about Technical Writing?
 Well, in short, he says 'keep it simple, silly'! 
 
 I mean, come on, you'd expect technical writing to be 'technical' at the very least. However, on the contrary, this type of writing is more based on connecting to the audience rather than just describing the technicalities behind a given process or product. 
@@ -29,26 +29,26 @@ Look at this README for example, it's about a computer science student's resume,
 
 Apart from keeping it simple, Etter also puts forward the argument that one should adopt lightweight markup languages, use static site generators, and store content in version control repositories with their respective software files. Wait, didn't I talk about that already? He also argues that writers should spend most of their time researching and testing content, investigating analytics, and iterating on the documentation content on their websites. 
 
-#### How do I Host my resume on GitHub Pages?
+### How do I Host my resume on GitHub Pages?
 Finally!
 
-##### First things first, How did I format my resume in Markdown?
+#### First things first, How did I format my resume in Markdown?
 I used an online free-to-use tool called [Dillinger](https://dillinger.io/).
 Once you know the basics of Markdown (Remember, tutorial under "More Resources"), it's really as easy as typing text on one side in the tool and seeing that text come to life on the other side showing the live preview.
 
 The GIF above shows a snapshot of the editor while I was writing the statemtents in the above paragraph. Pretty cool I must say!
 Anyways, once you're done with the formatting part all you have to do is click on **EXPORT AS** located at the top right corner of the tool and then select Markdown. Next, it will allow you to choose the directory of the folder you want to save the 'Resume.md' (or *whatever*.md) file in. I just chose the same spot on my local drive where I had cloned my repository from GitHub earlier. Oh, and I guess that's the next thing in this README.
 
-##### How do I set myself up on GitHub and Host my resume there?
+#### How do I set myself up on GitHub and Host my resume there?
 There are several ways to do this. GitHub at first glance seems like a daunting place to get familiar with. Atleast, I, for one, thought so. So to keep it neat and tidy, I'll only be describing the simple process I used to get set up and carry out the task at hand: Host a resume there. I am not going to go into much detail about how amazing GitHub is or what all the different ways are through which you can carry out the task at hand or how you should totally learn more about it. You *should* learn more about it btw, so I'll include a nice introduction to GitHub under "More Resources". But, as far as our task is concerned GitHub offers a free public repository with each account, this repository is where we will be storing our Markdown formatted resume. From there, using GitHub pages and a tad bit of Jekyll, we will turn it into a easy access webpage. The webpage can be accessed by simply going to the weblink of the public repository you created with GitHub.
 
-###### So, how did I do it?
+##### So, how did I do it?
 --
-###### How I created a GitHub account
+##### How I created a GitHub account
  - Go to [GitHub](https://github.com/)
  - Sign Up
 
-###### How I created a public repository
+##### How I created a public repository
 Once you've signed up and are signed in, the left side of your homepage will show a list of your repositories. Since you're a new user it might not show any links to go to but you will see a button saying '**New**' next to where it says repositories, click on it.
 
 Now here, all you have to do is:
@@ -58,7 +58,7 @@ Now here, all you have to do is:
 
 And, voila, you now have a public repository.
 
-###### How I uploaded my resume
+##### How I uploaded my resume
 Now I, took a somewhat longer route here, where I first downloaded [GitHub Desktop](https://desktop.github.com/), logged in using my GitHub login details and chose an option to clone my public repository onto my local drive. This allows me to make changes to my files (like my Markdown formatted resume) locally on my computer without having to worry about having an internet connection. You don't have to do that though.
 
 Going back to when you created your repository through the website. Navigate to the page of your repository if you're not already in it. Once there it won't be hard to spot a button saying **Add file**. Simply click on it, a dropdown menu will appear, click on **Upload files**. In the new page, uploading your Markdown formatted resume should be a breeze, since you can literally drag and drop that stuff. 
