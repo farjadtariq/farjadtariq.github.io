@@ -1,5 +1,5 @@
 ---
-title: Farjad Tariq
+# Farjad Tariq
 ---
 #### <farjadtariq@gmail.com> | +1 204 915 8739 | [linkedin.com/in/farjadtariq](https://linkedin.com/in/farjadtariq)
 KEY STRENGTHS
