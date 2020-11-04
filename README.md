@@ -17,7 +17,7 @@ For this to work:
 If you have a resume already AND it's formatted in Markdown, bravo, you're way ahead of me when I started. If you have a resume, and it's not formatted, worry not, I've not only linked a great Markdown tutorial under "More Resources" at the end of this README, but I'll also be going over what Markdown editor I used to format my resume.
 If you don't have a resume at all however.. then I suggest you make one right away because that's a great step towards gaining employment. 
 
-# Instructions
+## Instructions
 Now, for the fun part.
 
 ### What does Etter say about Technical Writing?
