@@ -33,7 +33,7 @@ Apart from keeping it simple, Etter also puts forward the argument that one shou
 Lightweight Markup Languages like Markdown are not only easy to write using any generic text editor, but its also easy to read them in their raw form. I used an online free-to-use tool called [Dillinger](https://dillinger.io/).
 Once familiar with Markdown, it's really as easy as typing text on one side in the tool and seeing that text come to life on the other side showing the live preview.
 
-![Markdown Editor](Markdown Editor.gif)
+![Markdown Editor](Editor.gif)
 
 The GIF above shows a snapshot of the editor while I was writing the statemtents in the above paragraph. Pretty cool I must say!
 
